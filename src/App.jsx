@@ -132,7 +132,7 @@ function Footer() {
   return (
     <footer className="mt-24 bg-ink text-white">
       <div className="mx-auto grid max-w-7xl gap-10 px-5 py-16 md:grid-cols-2 lg:grid-cols-[1.2fr_1fr_1.3fr_1fr]">
-        <div><img src="/img/logo.png" alt="The CyberTech" className="h-14 rounded-xl bg-white p-1.5" />
+       <div><img src="/img/logo.png" alt="The CyberTech" className="h-24 w-auto rounded-2xl bg-white p-2 object-contain sm:h-28" />
           <p className="mt-5 max-w-xs text-white/65">Leaders in ERP and CRM software, since 1992.</p>
           <a href={`tel:${PHONE}`} className="mt-5 inline-flex items-center gap-2 font-semibold transition hover:text-sun"><Phone size={18} />{PHONE}</a></div>
         {col('Industries', IND.map((d) => [d.name, `/industries/${d.slug}`]))}
