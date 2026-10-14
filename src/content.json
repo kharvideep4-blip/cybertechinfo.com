@@ -1,0 +1,421 @@
+{
+ "industries": [
+  {
+   "slug": "finance",
+   "name": "Finance & Accounting",
+   "product": "ERP for Finance & Accounting",
+   "tag": "With financial insight, manage your business, increase profits, reduce costs, and bad debts.",
+   "h1": "Accounts and Finance",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Effective and efficient management of data with the help of ERP of Accounts and Finance. Charts, diagrams and reports to help you monitor and asses your data seamlessly. For all businesses to manage capital flow comprising of sales, receipts, payments and purchases."
+    },
+    {
+     "t": "ul",
+     "x": [
+      "You can view balances, reports",
+      "Monitor and analyze various documents",
+      "Generate reports that can easily be emailed or faxed",
+      "Track your payments easily and deposit transactions"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Transactions such as purchasing sales order management, inventory management, service management and more seamlessly. A comprehensive ERP system for all your accounting and financial activities. With timeliness, accuracy and precise audit trails as per your expectation. It provides solution to accounting areas such as General Ledger, payments that are received and are need to be paid. Web based accounting familiar for easy-to –use with browser based users which can help you too quickly and allows access from anywhere and anytime from any medium any device. The data can be consistent across applications, information with immediate availability wherever needed. Summarized report with documents can be attached with remarks or comments."
+    }
+   ]
+  },
+  {
+   "slug": "manufacturing",
+   "name": "Manufacturing",
+   "product": "ERP for Manufacturing",
+   "tag": "Powering production for diversed industries.",
+   "h1": "Manufacturing Industry",
+   "lead": "With modern solutions for your production process to keep you in competition.",
+   "blocks": [
+    {
+     "t": "p",
+     "x": "With many technologies all around. There is a huge rise in existing machineries. Interaction between the existing machineries. Rise in interactive technologies are making the production processes easy."
+    },
+    {
+     "t": "p",
+     "x": "With the help of our ERP that can interact with more than one systems. We provide assistance in handling your sales purchase inventory, finance and account management are all in need of solutions which can reduce cost and efficiency to vast market environment. We deliver your expectations with our services."
+    },
+    {
+     "t": "h",
+     "x": "Some Key Benefits of our services:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Monitor and manage your entire business process including manufacturing of material and managing your team.",
+      "Reduce equipment, planning time and allocation with schedule of production.",
+      "Maintain data so that you get to access anytime and anywhere.",
+      "Interactive and end-to-end system which helps you to manage your process from planning to production and delivery."
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "diamond",
+   "name": "Diamond & Jewellery",
+   "product": "ERP for Diamond & Jewellery",
+   "tag": "Manage manufacturing to marketing, your precious stones and metal business.",
+   "h1": "Diamond and Jewellery",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Diamond and Jewellery has always been a valuable asset. Diamond and Jewellery Industry is one of the highest contributing industries with great contribution in the growth of country’s GDP."
+    },
+    {
+     "t": "p",
+     "x": "We assist in growing your business through our Smart Diamond and Jewellery ERP software. We help you to manage your Inventory, Stock, Supply Chain Management and much more. We make your work simple by maintaining your valuable data in a secured database. Problems related to sales can easily occur as prices fluctuate every day. We assist you to manage the sales and supply through our ERP by providing a report regularly."
+    },
+    {
+     "t": "h",
+     "x": "Some Key Benefits of our ERP software are:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Easy to use",
+      "Time Saving",
+      "Tracks and reports everyday",
+      "Maintains record of every single details",
+      "Feasible and Efficient"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "service",
+   "name": "Service & Contract Management",
+   "product": "ERP for Service & Contract Management",
+   "tag": "Addressing the primary need of Every customer: Timely Quality Service.",
+   "h1": "Service Industry",
+   "lead": "We take care of your software development; you focus on your business.",
+   "blocks": [
+    {
+     "t": "p",
+     "x": "It is a trend world over for business to remain agile outsourcing software development creating an environment which is cost effective and focused."
+    },
+    {
+     "t": "p",
+     "x": "It is more than important for organizations to get the jobs completed within time and budget .And that's exactly the reason why organizations rely on companies and teams which follow standard methodologies and work around frameworks for faster delivery of their expectations."
+    },
+    {
+     "t": "p",
+     "x": "Efficient software development requires intelligent methods template-based processes and trained team. In the entire ecosystem there are two hands one from the developer another from the client side and success is achieved to write collaboration. And that's exactly where we fit in to picture having right kind of experience over the period of years."
+    },
+    {
+     "t": "p",
+     "x": "How can we help?"
+    },
+    {
+     "t": "p",
+     "x": "With years of experience and successful delivery models we have crafted methodology which can bring results and success in desired manner. Technology dominance and flexibility in terms of understanding things using existing frameworks makes it possible .We support full range of industry verticals and whatever your requirements may be we are there to help you."
+    }
+   ]
+  },
+  {
+   "slug": "healthcare",
+   "name": "Hospital & Clinic Management",
+   "product": "ERP for Hospitals & Clinics",
+   "tag": "Hassle free, Painless and Effective patient health care.",
+   "h1": "Life support software solutions.",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Healthcare a vertical providing  multiple horizontal solutions with greater demand of improving efficiencies at reduced cost meeting all the challenges thrown by the regulatory compliances in the new technological advancements."
+    },
+    {
+     "t": "p",
+     "x": "This is one industry which needs to adopt the newest solutions available in market. The need varies from patient data record management creating automatic workflows getting inside into the treatment being offered are having a seamless integrated approach  towards patient care."
+    },
+    {
+     "t": "p",
+     "x": "We save lives by the way of building and delivering solutions based on advanced technologies to create a seamless, collaborative healthcare facility across the hospital. Different departments have access to the patient record facilities. Physician, doctors, government bodies, insurance companies can all interact with each other as one unit."
+    }
+   ]
+  },
+  {
+   "slug": "retail",
+   "name": "Retail & Trading Management",
+   "product": "ERP for Retail & Trading",
+   "tag": "Create a lean, Mean and Agile, one to multi branch enterprise.",
+   "h1": "Retail Management",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Our bouquet of software solutions contain All the Right Mix that is required by consumer goods companies to improve their operational efficiency with sharp increase in customer satisfaction and better use of resources. Retail, fashion restaurant kiosk etc."
+    },
+    {
+     "t": "p",
+     "x": "We facilitate the enhancement of your business process. In an enterprise, ERP system can cater for large retail organizations."
+    },
+    {
+     "t": "p",
+     "x": "The system comprise of specialized feature comprising interactive modules such as orders, accounts, stocks, purchase, etc. It eliminates all subtleties and other predicaments with our ERP software."
+    },
+    {
+     "t": "p",
+     "x": "With streamlined activities all-in-one software you can manage every transaction and provide limpidity and certainty."
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Manage your supply chain from end-to-end supply for retailers",
+      "Track inventory with its overall process from supply to delivery of the goods.",
+      "View and manage the details of the vendor",
+      "Manage the accounts and finance with the help of tools to manage financial aspects of your businesses.",
+      "Control the store online with different modules.",
+      "Database integration with comprehensive ERP in process management."
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "schools",
+   "name": "School & Institute Management",
+   "product": "ERP for Schools & Institutes",
+   "tag": "Run a well orchestrated academy, Involving parents, teachers, students and others effortlessly.",
+   "h1": "SMART-VIDYA: Making school management simple and easy.",
+   "lead": "A complete Solution for Educational Institutes.",
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Smart Vidya is a Web-based campus and institute management system for any size and activity establishment."
+    },
+    {
+     "t": "p",
+     "x": "It provides an automated experience when it comes to backend administration, process management, seamless interface for self service model to parents and ease of operations for teachers students alike. Smart Vidya provides a great experience."
+    },
+    {
+     "t": "h",
+     "x": "Why Smart Vidya?"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Saves Time – Saves Money",
+      "Paperless institutes",
+      "Data Security",
+      "Easy to use & implement",
+      "Personalized Dashboard",
+      "Eradicate excess of work",
+      "Access data anywhere anytime",
+      "Comprehensible reports.",
+      "Easy migration of data.",
+      "Automated exams and assignments."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Why Go with Smart Vidya?"
+    },
+    {
+     "t": "p",
+     "x": "Smart Vidya is a comprehensive and advanced system of management for all educational organizations. Smart Vidya transforms schools into smart schools. Quick communications, transparent operations and flawless administration can put your school ahead in the group of smart schools. It is an online platform for teachers, students and parents to interact with each other. It helps the institutions to run their day-to-day activities with ease."
+    },
+    {
+     "t": "h",
+     "x": "Modules of Smart Vidya."
+    },
+    {
+     "t": "h",
+     "x": "Primary Modules."
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Administration",
+      "Admission",
+      "Fees Management",
+      "Attendance Management",
+      "Student Management",
+      "Student Remarks",
+      "Parent Management",
+      "Academics Management",
+      "Event Management",
+      "Reports",
+      "SMS and Alerts",
+      "Live Chat",
+      "Certificate Management",
+      "User Management",
+      "Payment Gateway Integration",
+      "Student Login for Online Payment (Mobile App)",
+      "Website Integration",
+      "Graphical Dashboard"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Professional Add-Ons."
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Timetable Management",
+      "Exam Management",
+      "Assignment",
+      "Scholarship Management / Discount Management",
+      "Library Management",
+      "ID card Generator",
+      "Health Information Update",
+      "Store Management (Point Of Sale)",
+      "Human Resource Management",
+      "Accounting",
+      "Payroll",
+      "Conveyance Management",
+      "Student Login",
+      "Marketing Management (CRM)",
+      "Asset Management"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wholesale",
+   "name": "Wholesale & Distribution",
+   "product": "ERP for Wholesale & Distribution",
+   "tag": "Distributions and dealers networks managements, Create, collaborate and control chain of productive partner.",
+   "h1": "Wholesale and Distribution",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "We believe in providing services that will serve your purposes absolutely. An all-in-one ERP with size or category of the business with chances to sell through any channel or medium.  With absolute accuracy you can manage debtors, finance and conciliate bank transaction. Tracking inventory with accurate reports and MIS and register GST returns unobstructed."
+    },
+    {
+     "t": "p",
+     "x": "Designed for wholesalers, dealers and distributors. Managing the cash flow and inventory stock is a difficult task. Our software integrates and configures the whole ERP system tools for ordering, pricing, delivering, sourcing and billing your business sources. With real-time information availability, the solutions to every need. Streamline your business processes smoothly and efficiently."
+    }
+   ]
+  },
+  {
+   "slug": "hotels",
+   "name": "Hotels & Restaurants",
+   "product": "ERP for Hotels & Restaurants",
+   "tag": "Delivers unique satisfying experience to each customer.",
+   "h1": "A complete solution to make your restaurant smarter.",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Smart restaurant and Hotel management software is made for both medium sized and five star restaurants. It is customizable software which can be molded according to the client requirements."
+    },
+    {
+     "t": "p",
+     "x": "Smart restaurant software has been a pioneer in helping the restaurant to carry out their work hassle free. It empowers the restaurants to know their customers taste better and serve them better. Customer can give constructive feedback to restaurant. This eventually results in better bonding between restaurants and their customers. Customer can also select a best food from the restaurant menu on the basis of the user rating, reviews on our software."
+    },
+    {
+     "t": "p",
+     "x": "Restaurant can also manage all it's customers using dashboard. We make use of cutting edge technologies so that all this takes place effortlessly. Restaurant can add new menu, manage food stock, customers feedback. Customer can book a table and can even make an online payment. If customer orders food from restaurant for home deliveries, he can also track the executive location using our interactive software."
+    },
+    {
+     "t": "p",
+     "x": "Restaurant get better analysis of customer data on the basis of food ordered. This data can be accessed remotely. Restaurant can create exciting offer for their customers using offer management feature. They can create coupon code for various events. Also restaurant can handle their staff work, salary, food specialty, right people on right shift, budget in a better way using the report provided. With many happy clients, we take pride that we are one of the best restaurant management software offering many features that too at the minimal cost."
+    }
+   ]
+  },
+  {
+   "slug": "egov",
+   "name": "E-Governance",
+   "product": "E-Governance Solutions",
+   "tag": "A Citizen centric solution that integrates all concerned ministries & departments.",
+   "h1": "E-Governance",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "With the onset of technology each and every country is keeping pace with the advancement in the field of technology and using it for the betterment of the mankind. The government is also taking lead in developing e-governance projects and bringing its services into implementation nation-wide."
+    },
+    {
+     "t": "p",
+     "x": "Advent of technology can enhance delivery of government services opening a window of opportunity to everyone. It supports seamless integration with the sources enabling a responsive service within the network. Interaction with citizens (G2C), with employees (G2E), with business enterprise (G2B) and other government bodies and entities (G2G) creates a bidirectional communication."
+    },
+    {
+     "t": "p",
+     "x": "Enterprise resource planning (ERP) in public sector are in focus today. Enhanced transparency and accountability for a large number of population. The ERP is build to cater the needs of the citizens, employees, and minister and government entities."
+    }
+   ]
+  },
+  {
+   "slug": "construction",
+   "name": "Construction & Real-Estate Management",
+   "product": "ERP for Construction & Real Estate",
+   "tag": "Manage Infrastructure turn key projects and residential commercial building developments responsively and with agility.",
+   "h1": "Construction and Infrastructure.",
+   "lead": null,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "We endeavor to manage your infrastructure, residential and commercial building. Reliable and intelligent construction platform system which you can easily integrate with other capital projects."
+    },
+    {
+     "t": "p",
+     "x": "A platform for managing the construction is always been of  great concern to engineers. It facilitates the requirement for management of capital, human resource and heavy equipments effortlessly. Professionals can easily manage clients, invoices, scheduling, documents & much more."
+    },
+    {
+     "t": "p",
+     "x": "A powerful integration of financial and project management software. Our ERP assists you in project planning, its execution and tracking . Handling clients, Projects, invoices, documents, scheduling and much more."
+    }
+   ]
+  },
+  {
+   "slug": "ecommerce",
+   "name": "E-Commerce",
+   "product": "Customized E-Commerce Solutions",
+   "tag": "Design and display your business online, using our dynamic platform.",
+   "h1": "E-Commerce revolving Marketplace",
+   "lead": "Your partner in progress to reach out far and wide target customers.",
+   "blocks": [
+    {
+     "t": "p",
+     "x": "With the advent of new technologies methods of buying and selling are changing over the period of time. During last decade more and more people have become mobile friendly and internet savvy which has affected the change in buying habits.  There has been a mega shift in the way people buy and sell through digital commerce over the cloud."
+    },
+    {
+     "t": "p",
+     "x": "There are new definitions, new methodologies and new ways of engaging potential customers and also reaching out to diverged market with less time to convert leads into sales. This has thrown challenges to most business houses which need to be taken care of to survive and sustain the competition."
+    }
+   ]
+  }
+ ],
+ "home": {
+  "since": "With the humble beginning as a business software provider way back in 1992, today “The CyberTech” has grown to be India’s premium business software provider organization.",
+  "vast": [
+   "The CyberTech has one of the vast product range in ERP softwares, which includes ERP software for Schools & Educational institutes, Diamond industry, Jewellery industry, Steel manufacturing industry, Textile industry, Chemical industry, Pharmacies, Trading houses, Hotels, Clubs, Resorts, Restaurants etc.",
+   "The CyberTech also has CRM software for sales and marketing industry as well as service industry."
+  ],
+  "security": [
+   "In today’s digital world, keeping data and applications secure is one of the challenging task fir organizations and the success or failure of the organization lies on the privacy of their business critical data.",
+   "The CyberTech is industry leader in providing security solutions and offers variety of security solutions like Mobile Application Security, Website / Portal Security, Social Media Security, Applicaion Security, Anti Phising, PKI based solutions, Identity based frameworks, Digital asset protection etc."
+  ]
+ },
+ "testimonials": [
+  {
+   "name": "Bipin Shah",
+   "role": "Owner",
+   "co": "B.T.Traders",
+   "city": "Mumbai",
+   "q": "My relation with The CyberTech started in 2011 when I bought sales and marketing CRM of The CyberTech, now I am able to mange all my leads and all my sales and marketing activities without any hassle."
+  },
+  {
+   "name": "Surendra",
+   "role": "Director",
+   "co": "SeeMax System",
+   "city": "Ahmedabad",
+   "q": "I was referred to The CyberTech by one of my friend as I wanted network security solution for my clients and I am happy to say it was my best decision to chose The CyberTech as they are experts in their work and exactly know what clients require."
+  }
+ ],
+ "about": [
+  "With the humble beginning as a business software provider. Way back in 1992, today The CyberTech has grown to be India’s premium, business software provider establishment. It became evident sooner that customer concern was more about ease of use and adaptiveness with their ongoing business process, hence we focused all our potential in that direction and our hard-work eventually made us leaders of business software providers in India.",
+  "The CyberTech is committed to providing user-friendly and easy to use software for your business. The CyberTech also treats each and every requirements seriously. This is evident in the fact that many major business houses in India have certified The CyberTech to handle their data recovery requirements of software to achieve their goal of growth and automation at the same time. Apart from Domestic Companies, we also have customers from Government Ministries, as well as international MNC’s, commercial banks and more. Of course, we are not forgetting small and medium industries who require business software solutions. If you have a need, we will have the best solution for you.",
+  "The CyberTech has played a vital role in providing the latest technology with exceptional quality and values to it’s users and business houses. The panic that can emerge as a result of a sudden change in business process and the way business house operates can be upsetting and The CyberTech will do everything in order to make the process as trouble-free as it can be. We are sure you can trust us with your requirements!"
+ ]
+}
